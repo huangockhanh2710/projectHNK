@@ -153,8 +153,10 @@ a {
 }
 .clients .row-img {
     margin-top: 96.5px;
+    display: flex;
+    align-items: center;
+    /* background: orange; */
 }
-
 /* .guides */
 .guides {
     margin-top: 40px;
